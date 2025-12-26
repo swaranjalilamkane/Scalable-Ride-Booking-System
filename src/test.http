@@ -1,0 +1,40 @@
+### Create a new driver
+POST http://ec2-44-213-71-23.compute-1.amazonaws.com:8080/api/drivers/signup
+Content-Type: application/json
+
+{
+  "id": "d1",
+  "name": "Alice Driver"
+}
+### Create a new rider
+POST http://ec2-44-213-71-23.compute-1.amazonaws.com:8080/api/rides/signup
+Content-Type: application/json  
+
+{
+  "id": "r1",
+  "name": "Bob Rider"
+}
+### Request a ride
+POST http://ec2-44-213-71-23.compute-1.amazonaws.com:8080/api/rides/request
+Content-Type: application/json
+
+{
+  "rider_id": "r1",
+  "pickup":{"lat":37.7749,"lng":-122.4194},
+  "dropoff":{"lat":37.7849,"lng":-122.4094 }
+}
+
+### Get available rides
+GET http://localhost:8080/api/drivers/available-rides
+
+### Get available drivers
+GET http://localhost:8080/api/drivers/available-drivers
+
+### Accept a ride
+POST http://localhost:8080/api/rides/ride_1/accept
+Content-Type: application/json
+
+{
+  "driver_id": "d1"
+}
+

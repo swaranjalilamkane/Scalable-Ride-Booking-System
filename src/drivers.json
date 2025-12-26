@@ -1,0 +1,61 @@
+[
+  {"id": "d1", "name": "Driver 1", "location": {"lat": 12.9352, "lng": 77.6245}},
+  {"id": "d2", "name": "Driver 2", "location": {"lat": 12.9360, "lng": 77.6180}},
+  {"id": "d3", "name": "Driver 3", "location": {"lat": 12.9385, "lng": 77.6228}},
+  {"id": "d4", "name": "Driver 4", "location": {"lat": 12.9341, "lng": 77.6302}},
+  {"id": "d5", "name": "Driver 5", "location": {"lat": 12.9378, "lng": 77.6281}},
+
+  {"id": "d6", "name": "Driver 6", "location": {"lat": 12.9105, "lng": 77.6412}},
+  {"id": "d7", "name": "Driver 7", "location": {"lat": 12.9141, "lng": 77.6446}},
+  {"id": "d8", "name": "Driver 8", "location": {"lat": 12.9120, "lng": 77.6490}},
+  {"id": "d9", "name": "Driver 9", "location": {"lat": 12.9182, "lng": 77.6466}},
+  {"id": "d10", "name": "Driver 10", "location": {"lat": 12.9161, "lng": 77.6431}},
+
+  {"id": "d11", "name": "Driver 11", "location": {"lat": 12.9716, "lng": 77.5946}},
+  {"id": "d12", "name": "Driver 12", "location": {"lat": 12.9731, "lng": 77.5890}},
+  {"id": "d13", "name": "Driver 13", "location": {"lat": 12.9684, "lng": 77.5968}},
+  {"id": "d14", "name": "Driver 14", "location": {"lat": 12.9749, "lng": 77.5922}},
+  {"id": "d15", "name": "Driver 15", "location": {"lat": 12.9699, "lng": 77.5911}},
+
+  {"id": "d16", "name": "Driver 16", "location": {"lat": 12.9843, "lng": 77.7520}},
+  {"id": "d17", "name": "Driver 17", "location": {"lat": 12.9860, "lng": 77.7481}},
+  {"id": "d18", "name": "Driver 18", "location": {"lat": 12.9825, "lng": 77.7545}},
+  {"id": "d19", "name": "Driver 19", "location": {"lat": 12.9880, "lng": 77.7493}},
+  {"id": "d20", "name": "Driver 20", "location": {"lat": 12.9852, "lng": 77.7515}},
+
+  {"id": "d21", "name": "Driver 21", "location": {"lat": 12.9781, "lng": 77.6403}},
+  {"id": "d22", "name": "Driver 22", "location": {"lat": 12.9762, "lng": 77.6421}},
+  {"id": "d23", "name": "Driver 23", "location": {"lat": 12.9750, "lng": 77.6355}},
+  {"id": "d24", "name": "Driver 24", "location": {"lat": 12.9793, "lng": 77.6388}},
+  {"id": "d25", "name": "Driver 25", "location": {"lat": 12.9742, "lng": 77.6370}},
+
+  {"id": "d26", "name": "Driver 26", "location": {"lat": 12.8443, "lng": 77.6630}},
+  {"id": "d27", "name": "Driver 27", "location": {"lat": 12.8461, "lng": 77.6682}},
+  {"id": "d28", "name": "Driver 28", "location": {"lat": 12.8480, "lng": 77.6605}},
+  {"id": "d29", "name": "Driver 29", "location": {"lat": 12.8498, "lng": 77.6647}},
+  {"id": "d30", "name": "Driver 30", "location": {"lat": 12.8435, "lng": 77.6622}},
+
+  {"id": "d31", "name": "Driver 31", "location": {"lat": 12.9081, "lng": 77.6852}},
+  {"id": "d32", "name": "Driver 32", "location": {"lat": 12.9099, "lng": 77.6825}},
+  {"id": "d33", "name": "Driver 33", "location": {"lat": 12.9121, "lng": 77.6840}},
+  {"id": "d34", "name": "Driver 34", "location": {"lat": 12.9135, "lng": 77.6815}},
+  {"id": "d35", "name": "Driver 35", "location": {"lat": 12.9110, "lng": 77.6832}},
+
+  {"id": "d36", "name": "Driver 36", "location": {"lat": 12.9860, "lng": 77.6205}},
+  {"id": "d37", "name": "Driver 37", "location": {"lat": 12.9872, "lng": 77.6188}},
+  {"id": "d38", "name": "Driver 38", "location": {"lat": 12.9890, "lng": 77.6210}},
+  {"id": "d39", "name": "Driver 39", "location": {"lat": 12.9855, "lng": 77.6192}},
+  {"id": "d40", "name": "Driver 40", "location": {"lat": 12.9885, "lng": 77.6224}},
+
+  {"id": "d41", "name": "Driver 41", "location": {"lat": 12.9611, "lng": 77.6385}},
+  {"id": "d42", "name": "Driver 42", "location": {"lat": 12.9630, "lng": 77.6401}},
+  {"id": "d43", "name": "Driver 43", "location": {"lat": 12.9645, "lng": 77.6358}},
+  {"id": "d44", "name": "Driver 44", "location": {"lat": 12.9625, "lng": 77.6392}},
+  {"id": "d45", "name": "Driver 45", "location": {"lat": 12.9602, "lng": 77.6375}},
+
+  {"id": "d46", "name": "Driver 46", "location": {"lat": 12.9560, "lng": 77.7015}},
+  {"id": "d47", "name": "Driver 47", "location": {"lat": 12.9578, "lng": 77.7030}},
+  {"id": "d48", "name": "Driver 48", "location": {"lat": 12.9591, "lng": 77.6995}},
+  {"id": "d49", "name": "Driver 49", "location": {"lat": 12.9580, "lng": 77.7020}},
+  {"id": "d50", "name": "Driver 50", "location": {"lat": 12.9552, "lng": 77.7003}}
+]
