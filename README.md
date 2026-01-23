@@ -1,6 +1,6 @@
 # CS6650GroupProject
 
-Authors: Jainum Sanghavi and Swaranjali Lamkane
+Author: Swaranjali Lamkane
 
 #  Ride Booking System
 
